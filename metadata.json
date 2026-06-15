@@ -1,0 +1,6 @@
+{
+  "name": "四角で切れ：Shikaku Puzzle",
+  "description": "A logic puzzle game where you divide a grid into rectangles, each containing exactly one number that represents its area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
